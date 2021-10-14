@@ -1104,6 +1104,12 @@ padding: 10px;
   stroke: #262037;
 }
 
+#web-list li {
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+}
+
 @media screen and (max-width: 50em) {
     
   
