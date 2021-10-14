@@ -449,10 +449,7 @@ loop(document.querySelectorAll('.fade'), elem2 => {
 
 $("#unlock-webs").click(function(e) {
   e.preventDefault();
-  var code = document.getElementById("code").value;
-  if(code=="Access2021"){
     $("#web-list").show();
-  }
 });
 
 /* GALLERY */
