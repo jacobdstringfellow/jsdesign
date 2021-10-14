@@ -474,18 +474,7 @@ $("#unlock-web").click(function(e) {
          scrollTop: parseInt($("#top").offset().top)
      }, 400);
  });
-	
-$( "#web" ).click(function() {
-$('.action--close').trigger('click');
-});
 
-$( "#dig" ).click(function() {
-$('.action--close').trigger('click');
-});
-
-$( "#contact" ).click(function() {
-$('.action--close').trigger('click');
-});
 	
 	 });
 
