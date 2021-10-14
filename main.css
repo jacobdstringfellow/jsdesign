@@ -1039,6 +1039,7 @@ footer a {
 
 .skills-holder {
   width: 100%;
+  position: relative;
 }
 
 .skills-section {
