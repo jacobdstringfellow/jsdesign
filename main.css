@@ -1083,6 +1083,16 @@ footer {
   max-width: 25px;
   fill: #fff;
   margin: 20px; 
+color: #ffffff;
+max-width: 45px;
+fill: #fff;
+margin: 20px;
+padding: 10px;
+	transition: all .5s;
+}
+
+#vsco:hover, #ig-logo:hover, #download:hover, #linkedin:hover, #behance:hover {
+	border: .5px solid #fff;
 }
 
 #vsco {
