@@ -1104,7 +1104,7 @@ padding: 10px;
   stroke: #262037;
 }
 
-#web-list li {
+#web-list ul li {
     font-weight: bold;
     margin-bottom: 20px;
     text-transform: uppercase;
