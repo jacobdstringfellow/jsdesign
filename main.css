@@ -1074,6 +1074,26 @@ footer a {
   font-weight: 500;
 }
 
+footer {
+  text-align: center;
+}
+
+#vsco, #ig-logo, #download, #linkedin, #behance {
+  color: #ffffff;
+  max-width: 25px;
+  fill: #fff;
+  margin: 20px; 
+}
+
+#vsco {
+  stroke: #fff;
+  stroke-width: .25px;
+}
+
+#ig-logo {
+  stroke: #cc7474;
+}
+
 @media screen and (max-width: 50em) {
     
   
