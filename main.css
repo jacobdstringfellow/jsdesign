@@ -803,7 +803,7 @@ main {
 #circle-container { 
   margin: 0%;
   text-transform: uppercase;
-  letter-spacing: .15em;
+  letter-spacing: .12em;
   position: absolute;
   top: 100vh;
   right: 50px;
