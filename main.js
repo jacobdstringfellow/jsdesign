@@ -5,6 +5,19 @@
  */
 
 $( document ).ready(function() {
+	
+$( "#web" ).click(function() {
+	$('.action--close').trigger('click');
+});
+
+$( "#dig" ).click(function() {
+	$('.action--close').trigger('click');
+});
+
+$( "#contact" ).click(function() {
+	$('.action--close').trigger('click');
+});
+	
 
 $( ".button" ).append( '<svg class="ml-2" width="15" height="11" viewBox="0 0 15 11" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M9.64286 0L9.01786 0.636321L13.3036 5.0909L0 5.0909L0 5.99999L13.3036 5.99999L9.01786 10.3637L9.64286 11L15 5.54544L9.64286 0Z" class="fill-current"></path></svg>' );
 
