@@ -447,7 +447,7 @@ loop(document.querySelectorAll('.fade'), elem2 => {
 });
 
 
-$("#unlock-web").click(function(e) {
+$("#unlock-webs").click(function(e) {
   e.preventDefault();
   var code = document.getElementById("code").value;
   if(code=="Access2021"){
