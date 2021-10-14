@@ -296,7 +296,7 @@ main {
 }
 
 .menu__item--4 {
-  background: none;
+  /*background: none;*/
 }
 
 .menu__item--1 .menu__item-inner {
@@ -1101,7 +1101,7 @@ padding: 10px;
 }
 
 #ig-logo {
-  stroke: #cc7474;
+  stroke: #262037;
 }
 
 @media screen and (max-width: 50em) {
