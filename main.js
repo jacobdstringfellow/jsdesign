@@ -447,11 +447,6 @@ loop(document.querySelectorAll('.fade'), elem2 => {
 });
 
 
-$("#unlock-webs").click(function(e) {
-  e.preventDefault();
-    $("#web-list").show();
-});
-
 /* GALLERY */
 
  // portfolio
