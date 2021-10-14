@@ -984,7 +984,7 @@ main {
 }
 
 footer { 
-  background: var(--peach);
+  background: #262138;
   padding: 50px;
 }
 
@@ -1070,6 +1070,7 @@ footer a {
 
 .flex-col li {
   padding-bottom: 10px;
+  font-weight: 500;
 }
 
 @media screen and (max-width: 50em) {
