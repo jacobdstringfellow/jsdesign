@@ -1154,8 +1154,19 @@ padding: 10px;
 		text-align: center;
 	}
 	
-	.flex-col li{
+	.flex-col li {
            list-style-type: none;
 	}
+	
+	.work-section {
+	   flex-wrap: wrap;
+	}
+	
+	.left-image, .right-info {
+	    width: 80%;
+	    padding-left: 0px;
+	}
+	
+	
   
 }
