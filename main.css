@@ -1148,9 +1148,14 @@ padding: 10px;
 	   flex-wrap: wrap;
 	}
 	
-	.flex-item {
+	.flex-col {
            flex: auto;
            width: 100%;
+		text-align: center;
+	}
+	
+	.flex-col li{
+           list-style-type: none;
 	}
   
 }
