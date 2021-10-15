@@ -1043,11 +1043,12 @@ footer a {
 .skills-holder {
   width: 100%;
   position: relative;
+  background: #262438;
 }
 
 .skills-section {
-  padding-top: 100px;
-  padding-bottom: 100px;
+  padding-top: 75px;
+  padding-bottom: 75px;
   max-width: 1000px;
   width: 90%;
   margin: auto;
