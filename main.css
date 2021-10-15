@@ -1115,7 +1115,28 @@ padding: 10px;
     text-transform: uppercase;
 }
 
-@media screen and (max-width: 50em) {
+@media screen and (max-width: 850px) {
     
+	.content:after {
+	   width: 100%;
+	}
+	
+	body {
+          padding-top: 20px;
+	}
+	
+	.codrops-header { 
+	    justify-content: left;
+	    padding-left: 20px;
+	    padding-bottom: 30px;
+	}
+	
+	.info {
+	   display: none;
+	}
+	
+	.circle {
+	   display: none;
+	}
   
 }
