@@ -902,7 +902,6 @@ main {
   border-radius: 24px;
   font-size: var(--font-size);
   font-weight: bold;
-  margin-left: -30px;
   color: var(--text);
   transform: translateY(var(--y)) translateZ(0);
   transition: all .5s;
@@ -924,7 +923,6 @@ main {
   --shadow: var(--shadow-hover);
   background: var(--background);
   box-shadow: var(--shadow);
-  margin-left: 0px;
 }
 
 
