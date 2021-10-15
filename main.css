@@ -1128,6 +1128,8 @@ padding: 10px;
 	
 	body {
           padding-top: 20px;
+	  margin-right: 0px;
+	  margin-left: 0px;
 	}
 	
 	.codrops-header { 
