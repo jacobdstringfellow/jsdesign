@@ -1169,6 +1169,7 @@ padding: 10px;
 	.left-image, .right-info {
 	    width: 80%;
 	    padding-left: 0px;
+	    padding-right: 0px;
 	}
 	
 	.mainmenu__item, .sidemenu__item {
