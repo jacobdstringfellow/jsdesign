@@ -1044,8 +1044,7 @@ footer a {
   width: 100%;
   position: relative;
   background-color: #262438;
-opacity: 1;
-background-image:  repeating-radial-gradient( circle at 0 0, transparent 0, #262438 22px ), repeating-linear-gradient( #1a182c55, #1a182c );
+  background-image: repeating-radial-gradient( circle at 0 0, transparent 0, #26243880 22px ), repeating-linear-gradient( #1a182c55, #1a182c );
 }
 
 .skills-section {
