@@ -1143,5 +1143,14 @@ padding: 10px;
 	#circle-container {
 	   display: none !important;
 	}
+	
+	.flex-columns {
+	   flex-wrap: wrap;
+	}
+	
+	.flex-item {
+           flex: auto;
+           width: 100%;
+	}
   
 }
