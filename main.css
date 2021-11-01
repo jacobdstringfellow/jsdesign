@@ -647,7 +647,7 @@ main {
     content: 'Web Design';
     z-index: 99;
     left: -110px;
-    bottom: 150px;
+    top: 150px;
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: .5em;
