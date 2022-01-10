@@ -974,10 +974,10 @@ main {
   opacity: 0.3;
 }
 .topography svg#topographic path {
-  fill: #212848;
+  fill: #ddd7cb;
   stroke-width: 1;
   stroke-miterlimit: 0;
-  stroke: #535c84;
+  stroke: #ddd7cb;
   stroke-dasharray: 500;
   stroke-dashoffset: 1000;
   -webkit-animation: dash 10s linear alternate infinite;
