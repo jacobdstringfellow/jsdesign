@@ -27,7 +27,7 @@ body {
 	--color-bg-item1: #4e606e;
 	--color-bg-item2: #2c35b7;
 	--color-bg-item3: #0f1013;
-	--color-bg-item4: #1d2027;
+	--color-bg-item4: #f7f5f1;
 	--color-bg-item5: #f4efe5;
 	--color-item-alt: #ffffff45;
 	--color-quote: #cc7474;
@@ -309,7 +309,6 @@ main {
 }
 .menu__item--4 .menu__item-inner {
 	background: var(--color-bg-item4);
-  background: none;
 }
 .menu__item--5 .menu__item-inner {
 	background: var(--color-bg-item5);
@@ -327,6 +326,10 @@ main {
 
 .label {
 	display: none;
+}
+
+.menu__item--4 .label {
+   color: #cc7676;
 }
 
 .mainmenu__item {
