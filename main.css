@@ -376,6 +376,7 @@ main {
 	position: relative;
 	z-index: 1000;
 	display: block;
+	color: #ffffff;
 }
 
 .menu__item-hoverlink a {
