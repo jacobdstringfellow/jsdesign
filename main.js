@@ -393,7 +393,7 @@ $('[data-scrollmagic]').each(function() {
 
 
 /* COLOR CHANGE ON SCROLL */
-
+/*
 var $doc = $(document),
     $body = $('.below-fold'),
     y = $doc.scrollTop(),
@@ -409,7 +409,7 @@ $doc.on('scroll', function(){
   $body.css('background', 'hsla(' + color1 + ', 25%, 25%, 1)');
   $body.find('h1').css('color', 'hsla(' + color2 + ', 48%, 10%, 1)');
 });
-
+*/
 
 
 /** FOR SCROLL REVEAL EFFECTS **/
