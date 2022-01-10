@@ -711,6 +711,7 @@ main {
     width: 100%;
     height: 100%;
     background: var(--bg-color);
+    background: #f4efe5;
     animation: a-ltr-before 2s cubic-bezier(.77,0,.18,1) forwards;
     transform: translateX(0);
 }
