@@ -1174,7 +1174,7 @@ padding: 10px;
 	.flex-col {
            flex: auto;
            width: 100%;
-		text-align: center;
+           text-align: left;
 	}
 	
 	.flex-col li {
