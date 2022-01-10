@@ -1177,6 +1177,10 @@ padding: 10px;
            text-align: left;
 	}
 	
+	.flex-col ul {
+	  padding-left: 20px;
+	}
+	
 	.flex-col li {
            list-style-type: none;
 	}
