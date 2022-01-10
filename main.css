@@ -384,7 +384,7 @@ main {
 }
 
 .menu__item-hoverlink:hover {
-	color: var(--color-link);
+	color: var(--color-link-hover);
 }
 
 .quote {
