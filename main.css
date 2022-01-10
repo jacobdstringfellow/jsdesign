@@ -1108,7 +1108,8 @@ padding: 10px;
 }
 
 #ig-logo {
-  stroke: #4e616e;
+  stroke: #faf8f2;
+  stroke-width: 0.5px;
 }
 
 #web-list ul li {
