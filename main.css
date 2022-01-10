@@ -29,7 +29,7 @@ body {
 	--color-bg-item3: #0f1013;
 	--color-bg-item4: #1d2027;
 	--color-bg-item5: #0f1013;
-	--color-item-alt: #494d54;
+	--color-item-alt: #ffffff45;
 	--color-quote: #cc7474;
 	--color-info: #ffffff;
 	--color-title: #cc7474;
@@ -572,7 +572,7 @@ main {
 	    font-size: 0.85rem;	
 	    top: 25%;
 	    left: -1.25rem;
-	    color: var(--color-item-alt);
+            color: var(--color-item-alt);
 	}
 	.mainmenu__item::after {
 		content: '';
