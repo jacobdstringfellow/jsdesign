@@ -1057,7 +1057,7 @@ footer a {
 .skills-holder {
   width: 100%;
   position: relative;
-  background: #f4efe5;
+  background: #fff;
 }
 
 .skills-section {
@@ -1070,7 +1070,7 @@ footer a {
 }
 
 .skills-section h2 {
-   text-align: center !important;   
+   text-align: left !important;   
    color: #4e626e;
 }
 
