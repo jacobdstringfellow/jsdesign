@@ -370,6 +370,10 @@ main {
 	display: block;
 }
 
+.menu__item-hoverlink a {
+	color: #ffffff;
+}
+
 .menu__item-hoverlink:hover {
 	color: var(--color-link);
 }
