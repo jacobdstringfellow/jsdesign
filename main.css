@@ -20,7 +20,7 @@ html {
 }
 
 body {
-	--color-text: #fff;
+	--color-text: #4e616e;
 	--color-bg: #f3efe5;
 	--color-link: #4f636f;
 	--color-link-hover: #cc7474;
@@ -617,7 +617,7 @@ main {
 
 .below-fold h2{
   font-size: 3em;
-  color: hsla(1, 100%, 100%, 1);
+  color: #4e626e;
   text-align: left;
   margin-bottom: 20px;
 }
@@ -1041,6 +1041,7 @@ footer a {
 .skills-holder {
   width: 100%;
   position: relative;
+  background: #f4efe5;
 }
 
 .skills-section {
@@ -1053,7 +1054,8 @@ footer a {
 }
 
 .skills-section h2 {
-   text-align: center !important;  
+   text-align: center !important;   
+   color: #4e626e;
 }
 
 .skills-section .flex-columns {
