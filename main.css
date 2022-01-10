@@ -1087,29 +1087,28 @@ footer {
 }
 
 #vsco, #ig-logo, #download, #linkedin, #behance {
-  color: #ffffff;
+  color: #4e616e;
   max-width: 25px;
   fill: #fff;
-  margin: 20px; 
-color: #ffffff;
+  margin: 20px;
 max-width: 45px;
-fill: #fff;
+fill: #4e616e;
 margin: 20px;
 padding: 10px;
 	transition: all .5s;
 }
 
 #vsco:hover, #ig-logo:hover, #download:hover, #linkedin:hover, #behance:hover {
-	border: .5px solid #fff;
+	border: .5px solid #4e616e;
 }
 
 #vsco {
-  stroke: #fff;
+  stroke: #4e616e;
   stroke-width: .25px;
 }
 
 #ig-logo {
-  stroke: #262037;
+  stroke: #4e616e;
 }
 
 #web-list ul li {
