@@ -340,6 +340,7 @@ main {
 	transition: color 0.1s;
 	margin: 0.25rem 0;
 	display: block;
+	color: #ffffff;
 }
 
 .mainmenu__item a,
