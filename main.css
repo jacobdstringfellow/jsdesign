@@ -305,7 +305,6 @@ main {
 }
 .menu__item--3 .menu__item-inner {
 	background: var(--color-bg-item1);
-  background: #000000;
 }
 .menu__item--4 .menu__item-inner {
 	background: var(--color-bg-item4);
