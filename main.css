@@ -21,8 +21,8 @@ html {
 
 body {
 	--color-text: #fff;
-	--color-bg: #1c1f2f;
-	--color-link: #fff;
+	--color-bg: #f3efe5;
+	--color-link: #4f636f;
 	--color-link-hover: #cc7474;
 	--color-bg-item1: #15171b;
 	--color-bg-item2: #2c35b7;
@@ -33,7 +33,7 @@ body {
 	--color-quote: #cc7474;
 	--color-info: #ffffff;
 	--color-title: #cc7474;
-	--color-tagline: #ffffff;
+	--color-tagline: #4F646F;
   --peach: #cc7474;
 	min-height: 100vh;
 	color: #57585c;
@@ -758,7 +758,7 @@ main {
   display: block;
   width: 100%;
   height: 2px;
-  background-color: #31313e;
+  background-color: #ffffff;
   animation: r 4s linear infinite;
   animation-delay: calc(var(--i) * -0.1s);
   will-change: transform;
