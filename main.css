@@ -342,6 +342,11 @@ main {
 	display: block;
 }
 
+.mainmenu__item a,
+.sidemenu__item a {
+   color: #ffffff;
+}
+
 .sidemenu__item-inner {
 	display: block;
 	transform: translate3d(0,100%,0);
