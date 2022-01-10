@@ -611,7 +611,7 @@ main {
 }
 
 .below-fold{
-  background: hsla(239deg, 10%, 29%, 1);
+  background: hsl(0deg 0% 100%);
   min-height: 1000px;
 }
 
