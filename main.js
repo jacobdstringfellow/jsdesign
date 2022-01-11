@@ -93,8 +93,8 @@ $( ".button" ).append( '<svg class="ml-2" width="15" height="11" viewBox="0 0 15
                     configInner.x = '0%';
                 }
                 else if ( direction === 'lr' ) {
-                    config.x = '-101%';
-                    configInner.x = '101%';
+                    config.x = '-100%';
+                    configInner.x = '100%';
                 }
                 else if ( direction === 'rl' ) {
                     config.x = '101%';
