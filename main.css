@@ -994,14 +994,15 @@ main {
   opacity: 0.3;
 }
 .topography svg#topographic path {
-  fill: #ddd7cb;
-  stroke-width: 1;
-  stroke-miterlimit: 0;
-  stroke: #ddd7cb;
-  stroke-dasharray: 500;
-  stroke-dashoffset: 1000;
-  -webkit-animation: dash 10s linear alternate infinite;
-          animation: dash 10s linear alternate infinite;
+   fill: #e1b75d;
+   stroke-width: 1;
+   stroke-miterlimit: 0;
+   stroke: #cc7474;
+   stroke-dasharray: 500;
+   stroke-dashoffset: 1000;
+   -webkit-animation: dash 10s linear alternate infinite;
+   animation: dash 10s linear alternate infinite;
+   opacity: .2;
 }
 
 footer { 
