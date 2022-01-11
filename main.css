@@ -361,7 +361,7 @@ main {
 	height: 100%;
 	position: absolute;
 	top: 0;
-	left: 0;
+	left: 1px;
 	background: url(/VSCOvans.webp) no-repeat 50% 50%;
 	background-size: cover;
 	transition: transform 0.8s cubic-bezier(0.2,1,0.8,1);
@@ -497,6 +497,7 @@ main {
 	}
 	.menu__item--3 {
 		grid-area: item3;
+		width: 100.25%;
 	}
 	.menu__item--4 {
 		grid-area: item4;
