@@ -977,6 +977,30 @@ main {
   width: 100%;
 }
 
+.uncover.bl:before, 
+.uncover.tr:before {
+    background-image: radial-gradient(#cc7474 20%, transparent 20%), radial-gradient(#cc7474 20%, transparent 20%);
+    background-color: #fff;
+    background-position: 0 0, 20px 20px;
+    background-size: 10px 10px;
+    height: 70px;
+    width: 70px;
+    border: 15px solid #fff;
+    position: absolute;
+    z-index: 999;
+    content: '';
+}
+
+.uncover.bl:before {
+	left: -15;
+	bottom: -15;
+}
+
+.uncover.tr:before {
+	right: -15;
+	top: -15;
+}
+
 .uncover_slice {
   height: 100%;
   flex-grow: 1;
