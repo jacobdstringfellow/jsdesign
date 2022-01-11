@@ -926,9 +926,9 @@ main {
 .button svg {
   position: relative;
   z-index: 99;
-  fill: #4e616e;
+  fill: #cc7474;
   margin-left: 10px;
-  stroke: #4e616e;
+  stroke: #cc7474;
   transition: all .5s;
 }
 
