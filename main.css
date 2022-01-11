@@ -504,6 +504,7 @@ main {
 	}
 	.menu__item--5 {
 		grid-area: item5;
+		width: 100.25%;
 	}
 	.menu__item--4, 
 	.menu__item--5 {
