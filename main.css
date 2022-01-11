@@ -660,7 +660,7 @@ main {
     position: absolute;
     content: 'Web Design';
     z-index: 99;
-    left: -110px;
+    left: -120px;
     top: 150px;
     font-weight: bold;
     text-transform: uppercase;
@@ -671,7 +671,7 @@ main {
 
 .reverse .left-image:before {
     content: 'Graphic Design';
-    right: -150px;
+    right: -160px;
     top: 150px;
     transform: rotate(90deg);
     left: auto;
