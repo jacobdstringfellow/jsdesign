@@ -80,7 +80,7 @@ a:focus {
   width: 50px;  
 }
 
-/*      CODE FOR CUSTOM CURSOR     
+/*      CODE FOR CUSTOM CURSOR     */
 
 .cursor {position:absolute; background: #fff; opacity:1; width:50px; height:50px; border-radius:50px; top:50%; left:50%;  animation: pulse .5s cubic-bezier(.51,0,0.4,.5) alternate infinite; transform: translate(-50%,-50%) scale(1);     z-index: 199;
     mix-blend-mode: difference;  }
