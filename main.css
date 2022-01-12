@@ -1051,7 +1051,7 @@ footer > div {
 }
 
 footer a {
-   z-index: 0;
+   z-index: 1;
 }
 
 
