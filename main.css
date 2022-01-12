@@ -95,7 +95,7 @@ div.active { animation:bounce .5s ease; }
  
  100%{ transform: translate(-50%,-50%) scale(2); opacity:0; }
   0%{ transform: translate(-50%,-50%) scale(1); opacity:1; }
-} /*---end keyframes
+} /*---end keyframes */
 
 
 
