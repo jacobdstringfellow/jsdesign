@@ -647,7 +647,7 @@ main {
   color: #4e626e;
   text-align: left;
   margin-bottom: 20px;
-  margin-top: 0px;
+  margin-top: 20px;
   font-family: cormorant, serif;
 }
 
@@ -1110,6 +1110,11 @@ footer a {
 	background: #fff;
 }
 
+.skills-section.about {
+  text-align: left;
+	margin-top: 100px;
+}
+
 .skills-section h2 {
    text-align: left !important;   
    color: #4e626e;
@@ -1242,6 +1247,11 @@ padding: 10px;
 	
 	.scene {
 	  display: none;
+	}
+	
+	.skills-section.about {
+
+		margin-top: 50px;
 	}
 	
   
