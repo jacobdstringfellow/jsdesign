@@ -82,7 +82,12 @@ a:focus {
 
 /*      CODE FOR CUSTOM CURSOR     */
 
-.cursor {position:absolute; background: #fff; opacity:1; width:50px; height:50px; 
+.cursor {
+	border: 2px solid #cc747438;
+	position: absolute;
+	background: none;
+	opacity:1;
+	width:50px; height:50px; 
 	border-radius:50px; top:50%; left:50%;  animation: pulse .5s cubic-bezier(.51,0,0.4,.5) alternate infinite; 
 	transform: translate(-50%,-50%) scale(1);     z-index: 1;
     mix-blend-mode: difference;  }
