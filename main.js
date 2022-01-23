@@ -416,15 +416,9 @@ $doc.on('scroll', function(){
 
 /* loop */
 function loop(elements, callback) {
-  /*for (let i = 0; i < elements.length; i++) {if (window.CP.shouldStopExecution(0)) break;
+  for (let i = 0; i < elements.length; i++) {if (window.CP.shouldStopExecution(0)) break;
     callback(elements[i]);
   }window.CP.exitedLoop(0);
-  */
-	
-elements.forEach((v,i) => {
-	if (window.CP.shouldStopExecution(0)) break;
-    callback(elements[i]);
-}window.CP.exitedLoop(0);)  
 	
 }
 
