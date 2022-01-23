@@ -414,12 +414,12 @@ $doc.on('scroll', function(){
 
 /** FOR SCROLL REVEAL EFFECTS **/
 
-/* loop
+/* loop */
 function loop(elements, callback) {
   for (let i = 0; i < elements.length; i++) {if (window.CP.shouldStopExecution(0)) break;
     callback(elements[i]);
   }window.CP.exitedLoop(0);
-}*/
+}
 
 
 
