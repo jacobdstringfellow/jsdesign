@@ -171,7 +171,7 @@ main {
 }
 
 /* Header */
-.codrops-header {
+.header {
 	position: relative;
 	z-index: 100;
 	display: flex;
@@ -181,7 +181,7 @@ main {
 	align-self: start;
 }
 
-.codrops-header__title {
+.header__title {
   font-size: 1rem;
   line-height: 1;
   font-weight: 700;
@@ -455,16 +455,16 @@ main {
 		grid-template-columns: 50% 50%;
 		grid-template-rows: auto auto auto;
 		grid-template-areas: 
-		'codropsheader info'
+		'header info'
 		'... ...'
 		'github ...';
 	}
-	.codrops-header {
-		grid-area: codropsheader;
+	.header {
+		grid-area: header;
 		padding: 0;
 		justify-content: start;
 	}
-	.codrops-links {
+	.links {
 		margin: 0;
 	}
 	.frame a {
@@ -1198,7 +1198,7 @@ padding: 10px;
 	  margin-left: 0px;
 	}
 	
-	.codrops-header { 
+	.header { 
 	    justify-content: left;
 	    padding-left: 20px;
 	    padding-bottom: 30px;
