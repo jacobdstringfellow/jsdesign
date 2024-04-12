@@ -1267,4 +1267,9 @@ padding: 10px;
         .reverse .left-image:before {
 	    display: none;
 	}
+
+	.work-section {
+	  padding-top: 50px;
+	  padding-bottom: 50px;
+	}
 }
