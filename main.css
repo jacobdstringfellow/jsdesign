@@ -242,6 +242,8 @@ main {
 	top: 1.5rem;
 	right: 1.5rem;
 	z-index: 1000;
+    	padding: 10px;
+	background: #f3efe5;
 }
 
 .menu--open .action--menu {
