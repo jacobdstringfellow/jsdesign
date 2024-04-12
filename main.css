@@ -808,7 +808,7 @@ main {
     will-change: transform;
   }
   
-  &::before {
+  /*&::before {
     background: blue;
     animation-delay: calc(var(--i) * -0.1s);
   }
@@ -816,7 +816,7 @@ main {
   &::after {
     background: red;
     animation-delay: calc(var(--i) * -0.1s - 1s);
-  }
+  }*/
 }
 
 @keyframes r {
