@@ -1238,9 +1238,9 @@ padding: 10px;
 	}
 	
 	.left-image, .right-info {
-	    width: 80%;
-	    padding-left: 0px;
-	    padding-right: 0px;
+	    width: 85%;
+	    padding-left: 0px !important;
+	    padding-right: 0px !important;
 	}
 	
 	.mainmenu__item, .sidemenu__item {
@@ -1280,5 +1280,9 @@ padding: 10px;
 
 	.uncover.bl:before, .uncover.tr:before {
 	  display: none;
+	}
+
+	.content .split {
+	  padding-bottom: 50px;
 	}
 }
