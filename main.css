@@ -1261,6 +1261,7 @@ padding: 10px;
 	.skills-section {
 	    padding: 25px 40px;
 	    margin-bottom: 50px;
+	    width: 85%;
 	}
 
 	.left-image:before, 
@@ -1271,5 +1272,13 @@ padding: 10px;
 	.work-section {
 	  padding-top: 50px;
 	  padding-bottom: 50px;
+	}
+
+	.box {
+	   height: 300px;
+	}
+
+	.uncover.bl:before, .uncover.tr:before {
+	  display: none;
 	}
 }
